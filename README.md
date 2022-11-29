@@ -1,7 +1,7 @@
 # API Test with Postman
  API Test with Postman
  <br>
-Laravel  project
+Laravel  project menggunakan database MySQL
 <br>
  Cara menjalankan project:
 <br>
